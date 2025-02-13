@@ -1,4 +1,4 @@
-<h1>Hi, I'm Seth! <br/><a href="https://github.com/ssethparriss">Quality Assurance Analyst</a>, <a href="https://www.linkedin.com/in/sethparris/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Seth! <br/><a href="https://www.linkedin.com/in/sethparris">Quality Assurance Analyst</a>, <a href="https://github.com/ssethparriss">Homelab Enthusiast</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
 <h2>👨‍💻 Quality Assurance Manual Tester Projects:</h2>
 
